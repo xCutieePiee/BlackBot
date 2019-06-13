@@ -10,7 +10,7 @@ const simpleytapi = require('simple-youtube-api')
 const youtube = new simpleytapi(yt_api_key);
 const config = require('../config/config.json')
 const prefix = config.prefix;
-client.login(config.prefix);
+client.login(config.token);
 var guilds = {};
 
 
