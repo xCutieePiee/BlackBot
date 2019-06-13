@@ -1,7 +1,7 @@
 # BlackBot
 ![BlackBot](https://cdn.discordapp.com/attachments/575450551458856976/584070050110242888/tumblr_inline_paijvnfETv1w1y3m6_1280.jpg)
 
-# What is blackBot ?
+# What is BlackBot ?
 **An Legendery Open Source Bot Using Discord.js Library (Javascript)
 Moderator bot , Music bot , General Bot , Games Bot , etc**
 **All the codes from the Arabic version**
