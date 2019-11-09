@@ -1,11 +1,11 @@
-# BlackBot
-![BlackBot](https://cdn.discordapp.com/attachments/575450551458856976/584070050110242888/tumblr_inline_paijvnfETv1w1y3m6_1280.jpg)
+# Genny Premium
+![BlackBot](https://cdn.discordapp.com/attachments/629738085952913418/637610727082950669/assa.png)
 
-# What is BlackBot ?
+# What is Genny Premium ?
 **An Legendery Open Source Bot Using Discord.js Library (Javascript)
 Moderator bot , Music bot , General Bot , Games Bot , etc**
 **All the codes from the Arabic version**
-Invite the bot now ! : [https://discordapp.com/oauth2/authorize?client_id=573008938069524481&permissions=8&scope=bot]
+Invite the bot now ! : [https://discordapp.com/oauth2/authorize?client_id=603988884694630430&scope=bot&permissions=2146958847]
 
 -----------------------------------
 
@@ -51,3 +51,4 @@ Link: https://glitch.com
 
 -----------------------------------
 
+# © all copyrights resered for Cutie Pie   xd jk
